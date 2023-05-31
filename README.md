@@ -44,7 +44,7 @@ if resultado2 is not None:
 
 ## Salida de Ejemplo Varias Fechas
 
-```json
+```shell
 [
 {'fecha': '17/05/2023', 'val_ufv': '2.434800000000000000'}, 
 {'fecha': '18/05/2023', 'val_ufv': '2.434970000000000000'}, 
@@ -54,7 +54,7 @@ if resultado2 is not None:
 ```
 
 ## Salida de Ejemplo Una Fecha
-```json
+```shell
 [
 {'fecha': '17/05/2023', 'val_ufv': '2.434800000000000000'}
 ]
